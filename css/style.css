@@ -239,3 +239,8 @@ address { font-style: normal; }
     .foot { padding-bottom: 32px; }
     .dock { display: none; }
 }
+
+/* Painel da marca (Diferenciais) */
+.brand-panel { aspect-ratio: 4 / 3; border-radius: var(--r-lg); background: linear-gradient(160deg, var(--blue) 0%, var(--blue-900) 100%); display: grid; place-content: center; justify-items: center; gap: 16px; padding: 32px; text-align: center; color: rgba(255, 255, 255, .8); }
+.split__media .brand-panel img { width: min(70%, 260px); aspect-ratio: auto; object-fit: contain; border-radius: 0; }
+.brand-panel p { max-width: 28ch; font-size: .9375rem; }
