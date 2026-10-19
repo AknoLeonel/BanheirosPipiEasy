@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 96" fill="#fff" role="img" aria-label="PipiEasy">
+  <!-- "pip" bold rounded letters -->
+  <g stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke-width="15">
+    <!-- p -->
+    <path d="M14 34 V62"/>
+    <circle cx="33" cy="44" r="15"/>
+    <!-- i -->
+    <path d="M70 34 V62"/>
+    <!-- p -->
+    <path d="M94 34 V62"/>
+    <circle cx="113" cy="44" r="15"/>
+  </g>
+  <circle cx="70" cy="13" r="8.5"/>
+  <!-- figure = the last "i" -->
+  <circle cx="150" cy="11" r="8"/>
+  <circle cx="148.5" cy="10" r="2.6" fill="#0F5DA5"/>
+  <path d="M141 26 Q151 21 158 28 L160 42 Q160 48 154 49 L152 64 H143 L144 44 Q140 38 141 26Z"/>
+  <path d="M156 34 Q164 34 167 38" stroke="#fff" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- dotted arc -->
+  <path d="M168 38 Q186 6 198 30 V62" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-dasharray="0.1 6.5" fill="none"/>
+  <!-- underline -->
+  <path d="M6 70 H232" stroke="#fff" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- easy -->
+  <text x="231" y="92" text-anchor="end" font-family="'Baloo 2','Nunito','Arial Rounded MT Bold',system-ui,sans-serif" font-weight="800" font-size="24" letter-spacing="0.5">easy</text>
+</svg>
